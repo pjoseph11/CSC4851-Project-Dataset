@@ -1,2 +1,2 @@
-# CSC4851 Project Dataset
+# ResNet-50 Model Transfer Learning
  
